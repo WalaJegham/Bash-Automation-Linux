@@ -30,8 +30,8 @@ Combine these three and you can automate almost anything.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-automations.git
-cd linux-automations
+git clone https://github.com/WalaJegham/Bash-Automation-Linux.git
+cd Bash-Automation-Linux
 chmod +x *.sh
 ```
 
@@ -167,7 +167,6 @@ The same pattern (script + cron + `if`) can:
 ## Credits
 
 Based on the concepts from the video "Introduction to automation" (Linux, Bash, cron, rsync).
-The video's sponsor, [Stack Monsters](https://stackmonsters.com), offers interactive Linux labs in the browser.
 
 ## License
 
